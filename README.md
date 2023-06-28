@@ -1,10 +1,10 @@
-# What is files_renamer
+# What is file_renamer
 
 files_renamer는 선택한 파일들의 이름을 
 
 특정 패턴을 기반으로 일괄적으로 변경해주는 도구입니다.
 
-# **How to use files_renamer **
+# **How to use file_renamer **
 
 1. renamer_controller.py를 실행한다.
 2. 파일들이 있는 폴더를 선택한다.
