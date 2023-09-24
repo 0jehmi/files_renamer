@@ -18,6 +18,7 @@ files_renamer는 선택한 파일들의 이름을
 
 <img width="339" alt="renamer_1" src="https://github.com/0jehmi/files_renamer/assets/122579358/a65e8c39-c183-4e66-9a41-7496445099c9">
 
+<br>
 
 Rename 적용 후>
 
